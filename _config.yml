@@ -1,4 +1,4 @@
-name: 肖航课题组  Xiao Research Group
+name: 安畅课题组  An Research Group
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 首页 Home page
     link: /
-  - title: 科研 Research
+  - title: 研发 Research and development
     link: /research.html
-  - title: 论文 Publications
+  - title: 论文 essay
     link: /publications.html
